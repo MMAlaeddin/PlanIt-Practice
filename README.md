@@ -14,3 +14,16 @@ _A business planning application that allows entrepreneurs to create their propo
 
 ## **Technologies Used**
 
+* ASP/.NET Core
+* AngularJS
+* VisualStudio Code
+* React.js
+* C#/.NET 
+* DocuSign API
+* Jest
+* HTML/CSS
+* JWT
+* Identity
+* Angular
+* NewtonSoft
+* Razor
