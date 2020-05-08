@@ -11,3 +11,6 @@ _A business planning application that allows entrepreneurs to create their propo
 ## Business Driven Development
 | Behavior | Input | Output |
 |----------|:-----:|--------|
+
+## **Technologies Used**
+
